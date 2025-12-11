@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Beta Builds of Windows",
+    "title-ru": "Бета версии Windows",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Breezeicons-places-32-folder-yellow.svg",
+    "link": "win-beta#",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Major Releases of Windows, Russian",
+    "title-ru": "Образы Windows на английском (English US)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Breezeicons-places-32-folder-yellow.svg",
+    "link": "win-russian#",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Microsoft Office",
+    "title-ru": "Microsoft Office",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Breezeicons-places-32-folder-yellow.svg",
+    "link": "ms-office#",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "VMware Tools",
+    "title-ru": "VMware Tools",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Breezeicons-places-32-folder-yellow.svg",
+    "link": "vmware-tools#",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Parent directory",
+    "title-ru": "назад",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Breezeicons-places-32-folder-yellow.svg",
+    "link": "win-english#",
+    "pages": ["ms-office", "vmware-tools", "win-beta", "win-russian"]
+  },
+  {
+    "title": "Microsoft Office 2016 Professional Plus (English) [x32/x64]",
+    "title-ru": "Microsoft Office 2016 Professional Plus (English) [x32/x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg",
+    "link": "https://archive.org/details/microsoft-office-2016-professional-plus-32-and-64-bit",
+    "pages": ["ms-office"]
+  },
+  {
+    "title": "Microsoft Office 2010 Professional Plus SP1 (English) [x64]",
+    "title-ru": "Microsoft Office 2010 Professional Plus SP1 (English) [x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Office-2010-free-logo.svg",
+    "link": "https://archive.org/details/sw-dvd-5-office-professional-plus-2010w-sp-1-64-bit-english-core-mlf-x-17-76756",
+    "pages": ["ms-office"]
+  },
+  {
+    "title": "Русский [x64] и другие языковые пакеты для Microsoft Office 2010",
+    "title-ru": "Русский [x64] и другие языковые пакеты для Microsoft Office 2010",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Office-2010-free-logo.svg",
+    "link": "https://mega.nz/folder/OkJ1XIIa#xIA1a5PvDRCE1awo_MclBQ/file/b0wDHYjJ",
+    "pages": ["ms-office"]
+  },
+  {
+    "title": "SP2 for Microsoft Office 2010 (English) [x64]",
+    "title-ru": "SP2 для Microsoft Office 2010 (English) [x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Office-2010-free-logo.svg",
+    "link": "https://www.microsoft.com/en-us/download/details.aspx?id=39647",
+    "pages": ["ms-office"]
+  },
+  {
+    "title": "VMware Tools for Windows Vista SP2",
+    "title-ru": "VMware Tools для Windows Vista SP2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg",
+    "link": "https://packages.vmware.com/tools/releases/11.0.6/windows/VMware-tools-windows-11.0.6-15940789.iso",
+    "pages": ["vmware-tools"]
+  },
+  {
+    "title": "VMware Tools for Windows 7 Aug 2018",
+    "title-ru": "VMware Tools для Windows 7 Aug 2018",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg",
+    "link": "https://packages.vmware.com/tools/releases/11.3.5/windows/VMware-tools-windows-11.3.5-18557794.iso",
+    "pages": ["vmware-tools"]
+  },
+  {
+    "title": "VMware Tools for Beta Builds of Windows 8 and 10",
+    "title-ru": "VMware Tools для Бета версий Windows 8 и 10",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg",
+    "link": "https://packages.vmware.com/tools/releases/10.2.1/windows/VMware-tools-windows-10.2.1-8267844.iso",
+    "pages": ["vmware-tools"]
+  },
+  {
+    "title": "Some Windows 8 Beta ISO's [x86]",
+    "title-ru": "Some Windows 8 Beta ISO's [x86]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg",
+    "link": "https://archive.org/details/SomeWindows8BetaISOs",
+    "pages": ["win-beta"]
+  },
+  {
+    "title": "Windows 8 Release Preview (Build 8400) (Russian) [x86/x64]",
+    "title-ru": "Windows 8 Release Preview (Build 8400) (Russian) [x86/x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg",
+    "link": "https://archive.org/details/WIN8_RELEASEPREVIEW_8400_RU-RU",
+    "pages": ["win-beta"]
+  },
+  {
+    "title": "Windows 10 build 9841 (English) [x86/x64]",
+    "title-ru": "Windows 10 build 9841 (English) [x86/x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg",
+    "link": "https://archive.org/details/win10-build-9841-debombed",
+    "pages": ["win-beta"]
+  },
+  {
+    "title": "Windows 10 Build 9926 (English) [x64]",
+    "title-ru": "Windows 10 Build 9926 (English) [x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg",
+    "link": "https://archive.org/details/debombed-9926",
+    "pages": ["win-beta"]
+  },
+  {
+    "title": "Windows XP Professional SP3 (English) [x86]",
+    "title-ru": "Windows XP Professional SP3 (English) [x86]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg",
+    "link": "https://archive.org/details/WinXPProSP3x86",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Windows Vista SP2 (English) [x64]",
+    "title-ru": "Windows Vista SP2 (English) [x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg",
+    "link": "https://archive.org/details/en_windows_vista_sp2_x64_dvd_342267_202010",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Windows 7 SP1 Aug 2018 (English) [x86/x64]",
+    "title-ru": "Windows 7 SP1 Aug 2018 (English) [x86/x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg",
+    "link": "https://archive.org/details/7601.24214.180801-1700.win-7sp-1-ldr-escrow-client-homepremium-x-64-fre-en-us_202212",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Windows 8.1 [Core & Pro] with Update 3 (English) [x64]",
+    "title-ru": "Windows 8.1 [Core & Pro] with Update 3 (English) [x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg",
+    "link": "https://archive.org/details/en_windows_8.1_with_update_x64_dvd_6051480",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Windows 10 Consumer and Business Editions (English) [x86/x64]",
+    "title-ru": "Windows 10 Consumer and Business Editions (English) [x86/x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg",
+    "link": "https://archive.org/details/OldWindows10MsdnIsoImages_EN_US",
+    "pages": ["win-english"]
+  },
+  {
+    "title": "Windows XP Professional SP3 (Russian) [x86]",
+    "title-ru": "Windows XP Professional SP3 (Russian) [x86]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg",
+    "link": "https://archive.org/details/WinXPProSP3Russian",
+    "pages": ["win-russian"]
+  },
+  {
+    "title": "Windows Vista SP2 (Russian) [x86/x64]",
+    "title-ru": "Windows Vista SP2 (Russian) [x86/x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg",
+    "link": "https://archive.org/details/WinVistaSP2AIORussian",
+    "pages": ["win-russian"]
+  },
+  {
+    "title": "Windows 7 Ultimate SP1 (Russian) [x86/x64]",
+    "title-ru": "Windows 7 Ultimate SP1 (Russian) [x86/x64]",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg",
+    "link": "https://archive.org/details/Win7UltimateSP1RUS",
+    "pages": ["win-russian"]
+  }
+]

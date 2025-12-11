@@ -1,0 +1,14 @@
+.app-shell {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.card-image {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.breadcrumb .breadcrumb-item + .breadcrumb-item::before {
+  content: '>';
+}

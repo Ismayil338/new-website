@@ -1,0 +1,72 @@
+{
+  "android": {
+    "archive-open": {
+      "en": "Archive of Free & Open Source Apps",
+      "ru": "Архив свободных приложений"
+    },
+    "archive": {
+      "en": "Archive of Free & Open Source Apps",
+      "ru": "Архив свободных приложений"
+    },
+    "archive-prop": {
+      "en": "Archive of Proprietary Apps",
+      "ru": "Архив проприетарных приложений"
+    },
+    "open-source": {
+      "en": "Apps for Android",
+      "ru": "Приложения для Android"
+    },
+    "proprietary": {
+      "en": "Proprietary Apps",
+      "ru": "Проприетарные приложения"
+    }
+  },
+  "windows": {
+    "archive-open": {
+      "en": "Archive of Free & Open Source Apps",
+      "ru": "Архив свободных приложений"
+    },
+    "archive": {
+      "en": "Archive of Free & Open Source Apps",
+      "ru": "Архив свободных приложений"
+    },
+    "forwin8": {
+      "en": "Free & Open Source Apps for Windows 7/8",
+      "ru": "Свободные приложения для Windows 7/8"
+    },
+    "not-in-winget": {
+      "en": "Free & Open Source Apps, that are missing from Winget",
+      "ru": "Приложения, отсутствующие в Winget"
+    },
+    "open-source": {
+      "en": "Apps for Windows",
+      "ru": "Приложения для Windows"
+    },
+    "proprietary": {
+      "en": "Proprietary Apps",
+      "ru": "Проприетарные приложения"
+    }
+  },
+  "iso-files": {
+    "ms-office": {
+      "en": "Microsoft Office",
+      "ru": "Microsoft Office"
+    },
+    "vmware-tools": {
+      "en": "VMware Tools",
+      "ru": "VMware Tools"
+    },
+    "win-beta": {
+      "en": "Beta Builds of Windows",
+      "ru": "Бета-версии Windows"
+    },
+    "win-english": {
+      "en": "ISO files",
+      "ru": "ISO-образы"
+    },
+    "win-russian": {
+      "en": "Major Releases of Windows, Russian",
+      "ru": "Образы Windows, на русском"
+    }
+  }
+}
